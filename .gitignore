@@ -3,3 +3,5 @@
 elpa
 .smex-items
 places
+nrepl-history
+ac-comphist.dat
